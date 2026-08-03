@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0066-plus-one) |
 ## Trie
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
