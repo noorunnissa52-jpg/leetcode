@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0066-plus-one) |
 ## Trie
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0056-merge-intervals) |
 ## Stack
 |  |
 | ------- |
