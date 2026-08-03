@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0066-plus-one) |
 ## Trie
 |  |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0045-jump-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
