@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
