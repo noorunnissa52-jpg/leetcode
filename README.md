@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0326-power-of-three](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
