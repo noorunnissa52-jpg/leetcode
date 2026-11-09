@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0052-n-queens-ii) |
+| [0401-binary-watch](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0401-binary-watch) |
 ## Divide and Conquer
 |  |
 | ------- |
