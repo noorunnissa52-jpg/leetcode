@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
