@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0367-valid-perfect-square) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0367-valid-perfect-square) |
@@ -143,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
