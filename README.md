@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
