@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0022-generate-parentheses) |
 ## Combinatorics
 |  |
