@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0707-design-linked-list](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -375,4 +376,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
