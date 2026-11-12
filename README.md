@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0367-valid-perfect-square) |
+| [1447-simplified-fractions](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1447-simplified-fractions) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0844-backspace-string-compare) |
+| [1447-simplified-fractions](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1447-simplified-fractions) |
 ## Array
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0258-add-digits) |
+| [1447-simplified-fractions](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1447-simplified-fractions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -381,4 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0707-design-linked-list) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
