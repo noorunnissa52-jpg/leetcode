@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0414-third-maximum-number) |
+| [0724-find-pivot-index](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0724-find-pivot-index) |
 ## Trie
 |  |
 | ------- |
@@ -397,4 +398,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
