@@ -5,16 +5,18 @@
 #         self.left = left
 #         self.right = right
 
+
 class Solution:
     def isValidBST(self, root):
-        def check(node, low, high):
+        arr = []
+        def nodes(node):
             if node is None:
-                return True
-
-            if node.val <= low or node.val >= high:
+                return
+            nodes(node.left)
+            arr.append(node.val)
+            nodes(node.right)
+        nodes(root)
+        for i in range(1, len(arr)):
+            if arr[i] <= arr[i-1]:
                 return False
-
-            return (check(node.left, low, node.val) and
-                    check(node.right, node.val, high))
-
-        return check(root, float('-inf'), float('inf'))
+        return True
