@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0258-add-digits) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0120-triangle) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0100-same-tree) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0100-same-tree) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
