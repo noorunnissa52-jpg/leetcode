@@ -14,13 +14,7 @@ class Solution:
             if node.val <= low or node.val >= high:
                 return False
 
-            if not check(node.left, low, node.val):
-                return False
-
-            if not check(node.right, node.val, high):
-                return False
-
-            return True
+            return (check(node.left, low, node.val) and
+                    check(node.right, node.val, high))
 
         return check(root, float('-inf'), float('inf'))
-
