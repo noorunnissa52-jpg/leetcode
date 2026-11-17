@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0844-backspace-string-compare) |
 | [1447-simplified-fractions](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1447-simplified-fractions) |
+| [2288-apply-discount-to-prices](https://github.com/noorunnissa52-jpg/leetcode/tree/master/2288-apply-discount-to-prices) |
 ## Array
 |  |
 | ------- |
