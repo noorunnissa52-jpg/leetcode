@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0383-ransom-note) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
