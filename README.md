@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0392-is-subsequence) |
+| [0629-k-inverse-pairs-array](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0629-k-inverse-pairs-array) |
 ## Memoization
 |  |
 | ------- |
