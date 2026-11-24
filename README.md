@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0367-valid-perfect-square) |
 | [1447-simplified-fractions](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1447-simplified-fractions) |
+| [1486-xor-operation-in-an-array](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0401-binary-watch) |
+| [1486-xor-operation-in-an-array](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
