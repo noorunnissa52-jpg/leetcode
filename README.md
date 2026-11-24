@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0367-valid-perfect-square) |
 | [1447-simplified-fractions](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1447-simplified-fractions) |
 | [1486-xor-operation-in-an-array](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/noorunnissa52-jpg/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0724-find-pivot-index) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/noorunnissa52-jpg/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Trie
 |  |
 | ------- |
@@ -421,10 +423,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0258-add-digits) |
 | [1447-simplified-fractions](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1447-simplified-fractions) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/noorunnissa52-jpg/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/noorunnissa52-jpg/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Manacher
 |  |
 | ------- |
@@ -508,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/noorunnissa52-jpg/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
