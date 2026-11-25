@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0367-valid-perfect-square) |
+| [0973-k-closest-points-to-origin](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1447-simplified-fractions](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1447-simplified-fractions) |
 | [1486-xor-operation-in-an-array](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/noorunnissa52-jpg/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0724-find-pivot-index) |
+| [0973-k-closest-points-to-origin](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/noorunnissa52-jpg/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0414-third-maximum-number) |
+| [0973-k-closest-points-to-origin](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -504,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -512,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## DP on Trees
 |  |
 | ------- |
@@ -559,4 +565,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
