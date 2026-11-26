@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/noorunnissa52-jpg/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Trie
 |  |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Iterator
 |  |
 | ------- |
