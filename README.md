@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1447-simplified-fractions](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1447-simplified-fractions) |
 | [1486-xor-operation-in-an-array](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3360-stone-removal-game](https://github.com/noorunnissa52-jpg/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/noorunnissa52-jpg/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0844-backspace-string-compare) |
+| [3360-stone-removal-game](https://github.com/noorunnissa52-jpg/leetcode/tree/master/3360-stone-removal-game) |
 ## Dynamic Programming
 |  |
 | ------- |
