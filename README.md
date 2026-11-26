@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0875-koko-eating-bananas](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0875-koko-eating-bananas) |
 ## String Matching
 |  |
 | ------- |
