@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0392-is-subsequence) |
 | [0629-k-inverse-pairs-array](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0629-k-inverse-pairs-array) |
 ## Memoization
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0322-coin-change) |
 | [0785-is-graph-bipartite](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/noorunnissa52-jpg/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -592,4 +595,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/noorunnissa52-jpg/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
